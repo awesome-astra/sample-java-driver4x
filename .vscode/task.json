@@ -1,6 +1,5 @@
 {
   "version": "2.0.0",
-
   "tasks": [
     {
       "label": "simple echo",
@@ -9,7 +8,6 @@
       "problemMatcher": [],
       "presentation": {
         "echo": true,
-        "reveal": "silent",    // <== open only on problems
         "focus": false,
         "panel": "shared",
         "showReuseMessage": true,
