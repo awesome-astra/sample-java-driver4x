@@ -17,3 +17,6 @@ github:
     addBadge: true
     addLabel: false
 
+vscode:
+  extensions:
+    - redhat.java
