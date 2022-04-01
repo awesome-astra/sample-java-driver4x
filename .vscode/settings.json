@@ -5,5 +5,10 @@
   "editor.renderControlCharacters": false,
   "breadcrumbs.enabled": false,
   "workbench.statusBar.visible": false,
-  "workbench.activityBar.visible": false
+  "workbench.activityBar.visible": false,
+  "extensions.ignoreRecommendations": true,
+  "extensions.webWorker": false,
+  "extensions.closeExtensionDetailsOnViewChange": true,
+   "task.autoDetect": "off"
+
 }
