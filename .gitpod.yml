@@ -1,10 +1,10 @@
 image:
   file: .gitpod.Dockerfile
 
-tasks:
-  - name: setup
-    before: |
-       clear && echo "Hello World !"
+#tasks:
+#  - name: setup
+#    before: |
+#       clear && echo "Hello World !"
 
 github:
   prebuilds:
